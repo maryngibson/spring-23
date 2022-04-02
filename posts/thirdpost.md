@@ -1,6 +1,6 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
+title: Sea Lions
+description: Sea lions are pinnipeds characterized by external ear flaps, long arms, the ability to walk on two legs, short, thick hair, and human hands and feet.
 date: 2018-08-24
 tags:
   - second tag
