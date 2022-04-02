@@ -1,6 +1,6 @@
 ---
-title: This is my second post.
-description: This is a post on My Blog about leveraging agile frameworks.
+title: Sea Otters
+description: The sea otter (Enhydra lutris) is a marine mammal native to the coasts of the northern and eastern North Pacific Ocean.
 date: 2018-07-04
 tags:
   - number 2
