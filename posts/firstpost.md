@@ -1,6 +1,6 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
+title: Whales
+description: Whales roam throughout all of the world's oceans, communicating with complex and mysterious sounds. 
 date: 2018-05-01
 tags:
   - another tag
