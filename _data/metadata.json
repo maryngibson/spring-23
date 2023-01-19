@@ -1,22 +1,22 @@
 {
-  "title": "Mammals of the Ocean",
-  "url": "https://hollmaier.com",
+  "title": Cy",
+  "url": "https://iastate.edu",
   "language": "en",
-  "description": "This is a website about mammals of the ocean.",
+  "description": "Cy is a mascot.",
   "feed": {
-    "subtitle": "hollmaier",
+    "subtitle": "Cy is a mascot.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://hollmaier.com"
+    "id": "https://iastate.edu"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://hollmaier.com/feed/feed.json"
+    "url": "https://iastate.edu/feed/feed.json"
   },
   "author": {
     "name": "Cy",
     "email": "cy@iastate.edu",
-    "url": "https://hollmaier.com/about-me/",
-    "twitter": "hollmaier"
+    "url": "https://iastate.edu/about-me/",
+    "twitter": "iastate"
   }
 }
