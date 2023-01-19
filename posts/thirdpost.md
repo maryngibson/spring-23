@@ -1,6 +1,6 @@
 ---
-title: Sea Lions
-description: Sea lions are pinnipeds characterized by external ear flaps, long arms, the ability to walk on two legs, short, thick hair, and human hands and feet.
+title: This is the third post.
+description: This is the description of the third post.
 date: 2018-08-24
 tags:
   - second tag
