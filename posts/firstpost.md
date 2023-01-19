@@ -1,6 +1,6 @@
 ---
-title: Whales
-description: Whales roam throughout all of the world's oceans, communicating with complex and mysterious sounds. 
+title: This is my first post.
+description: This is a description of a post.
 date: 2018-05-01
 tags:
   - another tag
