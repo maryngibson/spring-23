@@ -1,6 +1,6 @@
 ---
-title: Sea Otters
-description: The sea otter (Enhydra lutris) is a marine mammal native to the coasts of the northern and eastern North Pacific Ocean.
+title: This is the second post.
+description: This is the description of the second post.
 date: 2018-07-04
 tags:
   - number 2
