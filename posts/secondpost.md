@@ -1,6 +1,6 @@
 ---
-title: This is the second post.
-description: This is the description of the second post.
+title: Nurses
+description: This post is about nurses
 date: 2018-07-04
 tags:
   - number 2
