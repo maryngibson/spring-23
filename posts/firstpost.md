@@ -1,6 +1,6 @@
 ---
-title: This is my first post.
-description: This is a description of a post.
+title: Greys Anatomy
+description: Greys Anatomy is my favorite show 
 date: 2018-05-01
 tags:
   - another tag
